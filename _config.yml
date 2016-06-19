@@ -1,0 +1,14 @@
+layout_spectrum: 0.8571321
+typography_spectrum: 0.9203027
+color:
+  saturation: 0.8862917
+  lightness: 0.08070486
+  brandStrength: 0.01816597
+  rhythmicContrast: 0.04838257
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: At Home
