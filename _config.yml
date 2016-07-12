@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.08109559
 color:
   saturation: 1
   brandStrength: 1
@@ -21,6 +20,7 @@ color:
     - '#4E6730'
     - '#6D9033'
     - '#A9C13E'
-  rhythmicContrast: 0.5633727
+  rhythmicContrast: 0.09183671
+typography_spectrum: 0.08109559
 layout_spectrum: 0.4011815
 name: At Home
