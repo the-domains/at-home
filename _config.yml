@@ -1,14 +1,26 @@
-layout_spectrum: 0.8571321
-typography_spectrum: 0.9203027
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.08109559
 color:
-  saturation: 0.8862917
-  lightness: 0.08070486
-  brandStrength: 0.01816597
-  rhythmicContrast: 0.04838257
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#282629'
+    - '#FAD4A7'
+    - '#4E6730'
+    - '#6D9033'
+    - '#A9C13E'
+  rhythmicContrast: 0.5633727
+layout_spectrum: 0.4011815
 name: At Home
